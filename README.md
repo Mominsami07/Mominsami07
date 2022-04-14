@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as Full-Stack web developer
 - 📫 Reach me on [Showwcase](https://momin07.showwcase.com/).
 
-<img src="https://github-readme-stats.vercel.app/api?username=mominsami07&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mominsami07" />
+<img src="https://github-readme-stats.vercel.app/api?username=mominsami07&theme=tokyonight&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mominsami07&theme=tokyonight" />
