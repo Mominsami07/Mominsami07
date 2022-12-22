@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Android development
 - 🔭 I’m currently working as Full-Stack web developer
 - 📫 Reach me on [Showwcase](https://momin07.showwcase.com/).
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mominsami07&label=Profile%20views&color=0e75b6&style=flat" alt="Mominsami07" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=mominsami07&theme=tokyonight&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mominsami07&theme=tokyonight" />
